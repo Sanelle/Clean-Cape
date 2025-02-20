@@ -5,7 +5,7 @@ const vendors = [
         name: "Sparkle Pro Cleaners",
         rating: 4.8,
         location: "Sea Point",
-        image: "vendor1.jpg",
+        image: "https://i.postimg.cc/wvnkN6Dy/full-shot-people-cleaning-office.jpg",
         services: ["Deep Cleaning", "Office Cleaning", "Carpet Cleaning"],
         priceRange: "ZAR 300-500",
         type: "home"
@@ -15,7 +15,7 @@ const vendors = [
         name: "Eco Green Clean",
         rating: 4.9,
         location: "Claremont",
-        image: "vendor2.jpg",
+        image: "https://i.postimg.cc/zBHC894J/medium-shot-workers-with-cleaning-cart.jpg",
         services: ["Eco Cleaning", "Spring Cleaning", "Move-In Cleaning"],
         priceRange: "ZAR 400-600",
         type: "office"
@@ -25,7 +25,7 @@ const vendors = [
         name: "Quick Shine Services",
         rating: 4.7,
         location: "City Bowl",
-        image: "vendor3.jpg",
+        image: "https://i.postimg.cc/258TR9z6/professional-cleaning-service-person-using-vacuum-cleaner-office.jpg",
         services: ["Vehicle Cleaning", "Post-Construction Cleaning"],
         priceRange: "ZAR 500-700",
         type: "vehicle"
